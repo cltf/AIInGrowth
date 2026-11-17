@@ -1,0 +1,4 @@
+.venv/
+.DS_Store
+# 约 80MB，超出 GitHub 舒适体积；本地保留作沉淀来源
+AI-增长周沟通.docx
